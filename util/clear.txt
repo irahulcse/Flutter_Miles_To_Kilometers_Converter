@@ -1,0 +1,11 @@
+double sizeX = MediaQuery.of(context).size.width;
+    double sizeY = MediaQuery.of(context).size.height;
+    final spacer = Padding(padding: EdgeInsets.only(bottom: sizeY / 40));
+    final TextStyle inputStyle = TextStyle(
+      fontSize: 20,
+      color: Colors.blue[900],
+    );
+    final TextStyle labelStyle = TextStyle(
+      fontSize: 24,
+      color: Colors.grey[700],
+    );
