@@ -1,4 +1,4 @@
-![Image](images/rovers.JPG)
+![Image](images/rovers.jpg)
 # Flutter Miles to Kilometres Converter :boom:
 
 Flutter Miles to Kilometres is a Project which used Redux State Management t find the values and arrange it accordingly
